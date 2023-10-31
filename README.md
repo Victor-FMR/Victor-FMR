@@ -9,7 +9,7 @@
   </ul>
 </div>
 
-https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+
 
 
 <!--- snake -->
@@ -41,6 +41,7 @@ https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&l
 - 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
 
 - 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+
 <!--Intro end-->
 
 
