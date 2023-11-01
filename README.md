@@ -202,7 +202,7 @@
 
  <div align="center">
 <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
- <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://media.tenor.com/cgVZ3Ph5ZCkAAAAC/thanos-dance-cropped.gif">
+ <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://pin.it/1wgx1do">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 <br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
