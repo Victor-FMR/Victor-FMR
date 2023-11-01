@@ -203,7 +203,7 @@
  <div align="center">
 <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
  <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://pin.it/1wgx1do">
- <img src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fdeck-template-for-gamification-sprite-goku-vs-vegeta-v0-aspj44eyt1v91.gif%3Fwidth%3D1000%26auto%3Dwebp%26s%3D1b71eae7f5dd5fab863286572dcad5360f6a7f60">
+ <img src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 <br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <br />
