@@ -28,6 +28,7 @@
 
 
 <!--Intro start-->
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 - 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
@@ -36,11 +37,13 @@
 
 - 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**                               
 
 - 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
 
 - 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+
+
 
 <!--Intro end-->
 
@@ -123,7 +126,7 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
