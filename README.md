@@ -144,6 +144,8 @@
  <img alt="dsmark" align="center" height="125px" width="125px" src="https://media.tenor.com/U0_JEH4L-GcAAAAi/thanos-twerk-twerking-gauntlet-clap-cheeks-thanos.gif">
  <img alt="dsmark" align="center" height="150px" width="100px" src="https://64.media.tumblr.com/9a18280d17b79742f6fdf96e1f8f0d7d/tumblr_mf7t0fj9gY1rfjowdo1_1280.gif">
  <img alt="dsmark" align="center" height="100px" width="100px" src="https://media.tenor.com/IRFM1RzwxV0AAAAi/goku-dance.gif">
+ <img alt="dsmark" align="center" height="25px" width="25px" src=" https://senpaisticker.com/cdn/shop/products/F4798790-6BD1-4637-A4DB-9D4D0EF5CD88.gif?v=1651475585&width=600">
+
 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
