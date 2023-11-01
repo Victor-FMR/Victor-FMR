@@ -136,9 +136,16 @@
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
+
+<!--BAILE-->
  <div align="left">
-<img alt="dsmark" align="center" height="175px" width="175px" src="https://media.tenor.com/0pO-d7FH3QgAAAAi/spongebob-meme-spongebob.gif">
- <b> Tools:<img alt="dsmark" align="center" height="175px" width="175px" src="https://media.tenor.com/0pO-d7FH3QgAAAAi/spongebob-meme-spongebob.gif">
+<h3>Tools:</h3><img alt="dsmark" align="center" height="100px" width="100px" src="https://media.tenor.com/pq4PeymKWiQAAAAi/puffer-fish.gif">
+ <b>  <img alt="dsmark" align="center" height="175px" width="175px" src="https://media.tenor.com/0pO-d7FH3QgAAAAi/spongebob-meme-spongebob.gif">
+ <img alt="dsmark" align="center" height="125px" width="125px" src="https://media.tenor.com/ij5WLJIu8A4AAAAi/the-rock.gif">
+ <img alt="dsmark" align="center" height="125px" width="125px" src="https://media.tenor.com/U0_JEH4L-GcAAAAi/thanos-twerk-twerking-gauntlet-clap-cheeks-thanos.gif">
+ <img alt="dsmark" align="center" height="175px" width="175px" src="https://media.tenor.com/0pO-d7FH3QgAAAAi/spongebob-meme-spongebob.gif">
+ <img alt="dsmark" align="center" height="175px" width="175px" src="https://media.tenor.com/0pO-d7FH3QgAAAAi/spongebob-meme-spongebob.gif">
+
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
