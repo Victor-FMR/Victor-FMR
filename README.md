@@ -203,7 +203,7 @@
  <div align="center">
 <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
  <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://pin.it/1wgx1do">
- <img src="https://steamuserimages-a.akamaihd.net/ugc/268343745585932953/EA5B5DB7B3436E518A257B9C8E8B1663626FEF42/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+ <img src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fdeck-template-for-gamification-sprite-goku-vs-vegeta-v0-aspj44eyt1v91.gif%3Fwidth%3D1000%26auto%3Dwebp%26s%3D1b71eae7f5dd5fab863286572dcad5360f6a7f60">
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
 <br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/backbonejs/backbonejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 <br />
