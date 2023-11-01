@@ -163,9 +163,6 @@
 
 <br/>
 
-
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
-
 ---
 
 [website]: http://bilgehangecici.site/
@@ -174,7 +171,3 @@
 [Spotify]: https://open.spotify.com/user/11153360645
 
 
-----
-Credit: [Bgstatic](https://github.com/Bgstatic)
-
-Last Edited on: 23/09/2020
