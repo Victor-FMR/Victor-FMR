@@ -144,7 +144,7 @@
  <img alt="dsmark" align="center" height="125px" width="125px" src="https://media.tenor.com/U0_JEH4L-GcAAAAi/thanos-twerk-twerking-gauntlet-clap-cheeks-thanos.gif">
  <img alt="dsmark" align="center" height="150px" width="100px" src="https://64.media.tumblr.com/9a18280d17b79742f6fdf96e1f8f0d7d/tumblr_mf7t0fj9gY1rfjowdo1_1280.gif">
  <img alt="dsmark" align="center" height="100px" width="100px" src="https://media.tenor.com/IRFM1RzwxV0AAAAi/goku-dance.gif">
- <img alt="dsmark" align="center" height="175px" width="200px" src="https://media.tenor.com/NB00MkCyxAUAAAAi/meme-shaggy.gif">
+ <img alt="dsmark" align="center" height="175px" width="175px" src="https://media.tenor.com/NB00MkCyxAUAAAAi/meme-shaggy.gif">
 
 
 
