@@ -144,7 +144,7 @@
  <img alt="dsmark" align="center" height="125px" width="125px" src="https://media.tenor.com/ij5WLJIu8A4AAAAi/the-rock.gif">
  <img alt="dsmark" align="center" height="125px" width="125px" src="https://media.tenor.com/U0_JEH4L-GcAAAAi/thanos-twerk-twerking-gauntlet-clap-cheeks-thanos.gif">
  <img alt="dsmark" align="center" height="175px" width="175px" src="https://media.tenor.com/0pO-d7FH3QgAAAAi/spongebob-meme-spongebob.gif">
- <img alt="dsmark" align="center" height="175px" width="175px" src="https://media.tenor.com/0pO-d7FH3QgAAAAi/spongebob-meme-spongebob.gif">
+ <img alt="dsmark" align="center" height="100px" width="100px" src="https://media.tenor.com/0pO-d7FH3QgAAAAi/spongebob-meme-spongebob.gif">
 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
