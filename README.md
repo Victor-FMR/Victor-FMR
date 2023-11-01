@@ -181,18 +181,7 @@
 |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> | <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="boostrap" width="40"> | <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40"> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"> | <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"> | <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="postman" width="40"> | <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/slack_tile_logo_icon_168820.png" width="40">
 
 <hr>
-
-### ⚙️ &nbsp; Git Analytics
- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NavodyaPasqual&theme=dark&show_icons=true" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavodyaPasqual&theme=dark&layout=compact" width="410" /></p>
-
-------
-Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
-
-Last Edited on: 21/09/2021
   
-
 ### Computer :> Programs && Tools
 
 <img alt="dsmark" align="left"  height="75%" width="75%" src="https://usagif.com/wp-content/uploads/gify/are-you-sure-about-that-21-usagif.gif">
