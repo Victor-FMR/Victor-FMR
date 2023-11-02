@@ -34,24 +34,18 @@
 
 <!--Intro start-->
 <img align="right" alt="GIF" height="375px" src="https://miro.medium.com/v2/resize:fit:640/1*MwSdCm7vhPZbs2EZ71lY7w.gif" />
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **Express.js Nodejs, MongoDB, MySQL, Prisma**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**                               
+- 💬 Ask me about ** Express.js, nodejs, mongoDB**                               
 
 - 📫 Feel free to reach me out **victormartinezbusiness30@gmail.com**
 
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
-
-
 
 <!--Intro end-->
-
 
 
 <!--- stats & Trophy (start) -->
