@@ -138,7 +138,7 @@
 
 <!--BAILE-->
  <div align="left">
-<h3>Tools:</h3><img alt="dsmark" align="center" height="100px" width="100px" src="https://media.tenor.com/pq4PeymKWiQAAAAi/puffer-fish.gif">
+<h3>Hobbies :</h3><img alt="dsmark" align="center" height="100px" width="100px" src="https://media.tenor.com/pq4PeymKWiQAAAAi/puffer-fish.gif">
  <b>  <img alt="dsmark" align="center" height="150px" width="175px" src="https://media.tenor.com/0pO-d7FH3QgAAAAi/spongebob-meme-spongebob.gif">
  <img alt="dsmark" align="center" height="110px" width="100px" src="https://media.tenor.com/ij5WLJIu8A4AAAAi/the-rock.gif">
  <img alt="dsmark" align="center" height="125px" width="100px" src="https://media.tenor.com/U0_JEH4L-GcAAAAi/thanos-twerk-twerking-gauntlet-clap-cheeks-thanos.gif">
