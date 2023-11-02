@@ -2,6 +2,7 @@
   
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="25%">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -205,4 +206,5 @@
 ### - Computer :> Programs && Tools
 <img alt="dsmark" align="left"  height="75%" width="75%" src="https://usagif.com/wp-content/uploads/gify/are-you-sure-about-that-21-usagif.gif">
 
+------------------------------------------------------
 
