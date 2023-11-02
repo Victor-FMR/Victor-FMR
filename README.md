@@ -1,4 +1,12 @@
 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=YasPHP.visitor-badge)
+  
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -198,8 +206,7 @@
 </br>
 </br>
 </br>
-### Computer :> Programs && Tools
-
+### - Computer :> Programs && Tools
 <img alt="dsmark" align="left"  height="75%" width="75%" src="https://usagif.com/wp-content/uploads/gify/are-you-sure-about-that-21-usagif.gif">
 
----------------------------------------------------------------------------
+
