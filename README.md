@@ -105,20 +105,23 @@
   </ul>
 </div>
 
-<!--icons and links-->
- 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+
+  <!--icons and links-->
+ <p align="center">
+  <a href="mailto:ashutosh.saxena.2001@gmail.com">
+ <img  alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/victor-martinez30/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" /> 
+  <a href="mailto:ashutosh.saxena.2001@gmail.com">
+ <img  alt="Gmail" width="155" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </a>
 
-<a href="https://www.reddit.com/user/X_Ashutosh_X">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
+  <a href="mailto:ashutosh.saxena.2001@gmail.com">
+ <img  alt="Telegram" width="155" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/telegram.png" />
 </a>
 
+
+</p>
 
 <!--profile visit count-->
 <div align="center">
