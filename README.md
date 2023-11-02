@@ -28,7 +28,7 @@
 
 
 <!--Intro start-->
-<img align="right" alt="GIF" height="400px" src="https://miro.medium.com/v2/resize:fit:640/1*MwSdCm7vhPZbs2EZ71lY7w.gif" />
+<img align="right" alt="GIF" height="375px" src="https://miro.medium.com/v2/resize:fit:640/1*MwSdCm7vhPZbs2EZ71lY7w.gif" />
 - 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
