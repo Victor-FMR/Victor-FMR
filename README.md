@@ -18,13 +18,6 @@
 
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -35,7 +28,7 @@
 
 <!--Intro start-->
 <img align="right" alt="GIF" height="375px" src="https://miro.medium.com/v2/resize:fit:640/1*MwSdCm7vhPZbs2EZ71lY7w.gif" />
-- 🔭 I’m currently working on **Express.js Nodejs, MongoDB, MySQL, Prisma**
+- 🔭 I’m currently working on **Nestjs, MongoDB, Postgres, Prisma**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
@@ -92,36 +85,12 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,sqlite,jest,discord,docker,express,firebase,github,html,idea,sequelize,js,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,postgresql,react,prisma,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,sqlite,jest,discord,docker,express,firebase,github,idea,sequelize,js,linux,md,materialui,mongodb,mysql,nodejs,postman,postgresql,prisma,ts,vscode&perline=14" />
   </a>
 </p>
 
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
 
-
-  <!--icons and links-->
- <p align="center">
-  <a href="victormartinezbusiness30@gmail.com">
- <img  alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-
-  <a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img  alt="Gmail" width="155" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</a>
-
-  <a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img  alt="Telegram" width="155" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/telegram.png" />
-</a>
-
-
-</p>
 
 <!--profile visit count-->
 <div align="center">
@@ -145,8 +114,8 @@
 ### - Hobbies : 
 - ✨ Gaming
 - ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+- ✨ Do exercise
+
 
 <!--BAILE-->
  <div align="left">
