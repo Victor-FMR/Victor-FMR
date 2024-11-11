@@ -11,6 +11,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Victor Martinez</h1></summary>
+    Software developer
   </ul>
 </div>
 
