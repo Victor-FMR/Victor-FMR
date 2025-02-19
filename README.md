@@ -65,7 +65,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,sqlite,jest,docker,express,firebase,github,sequelize,js,redis,mongodb,mysql,nodejs,kubernetes,supabase,googlecloud,postman,postgresql,npm,prisma,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=nestjs,git,rabbitmq,aws,sqlite,jest,docker,express,firebase,github,sequelize,js,redis,mongodb,mysql,nodejs,kubernetes,supabase,googlecloud,postman,postgresql,npm,prisma,ts,vscode&perline=14" />
   </a>
 </p>
 
