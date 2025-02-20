@@ -14,8 +14,8 @@
 - 🔥 Passionate about **backend development & microservices**  
 
 ### 💬 Ask me about  
-- 🤔 Exploring new technologies and developing software solutions.
-- 📖 Learning more about Software Development and Systems Design.
+- 🤔 Exploring new technologies and software solutions.
+- 📖 Learning more about Software Development.
 - 🎓 I like to exercise and **unlock achievements in video games**.
 - ⌛️ 🏋️‍♂️ &  📚 🎮 🖥️
 
