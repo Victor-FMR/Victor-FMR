@@ -27,7 +27,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,git,rabbitmq,aws,sqlite,jest,docker,express,sequelize,js,redis,mongodb,mysql,nodejs,kubernetes,supabase,googlecloud,postman,postgresql,npm,prisma,ts,vscode&perline=30" />
+    <img src="https://skillicons.dev/icons?i=nestjs,git,rabbitmq,aws,sqlite,jest,docker,express,sequelize,js,redis,mongodb,nginx,mysql,nodejs,kubernetes,supabase,googlecloud,postman,postgresql,npm,prisma,ts,vscode&perline=12" />
   </a>
 </p>
 
