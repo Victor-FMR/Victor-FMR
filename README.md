@@ -16,7 +16,7 @@
 ### 💬 Ask me about  
 - 🤔 Exploring new technologies and developing software solutions.
 - 📖 Learning more about Software Development and Systems Design.
-- 🎓 I like to exercise and **achieve achievements in video games**.
+- 🎓 I like to exercise and **unlock achievements in video games**.
 - ⌛️ 🏋️‍♂️ &  📚 🎮 🖥️
 
 ### 📩 Contact me  
