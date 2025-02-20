@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Victor Martinez </h1>
 <h3 align="center">Software Developer | Passionate about Scalable Applications 🚀</h3>
 <!--Intro start-->
-<img align="right" alt="GIF" height="375px" src="https://miro.medium.com/v2/resize:fit:640/1*MwSdCm7vhPZbs2EZ71lY7w.gif" />
+<img align="right" alt="GIF" height="350px" src="https://miro.medium.com/v2/resize:fit:640/1*MwSdCm7vhPZbs2EZ71lY7w.gif" />
 
 <!--Intro end-->
 
