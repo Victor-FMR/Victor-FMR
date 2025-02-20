@@ -1,45 +1,26 @@
-
-  
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="25%">
-
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Victor Martinez</h1></summary>
-    Software developer
-  </ul>
-</div>
-
-
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
-
-
+<h1 align="center"> Hi 👋, I'm Victor Martinez </h1>
+<h3 align="center">Software Developer | Passionate about Scalable Applications 🚀</h3>
 <!--Intro start-->
 <img align="right" alt="GIF" height="375px" src="https://miro.medium.com/v2/resize:fit:640/1*MwSdCm7vhPZbs2EZ71lY7w.gif" />
-- 🔭 I’m currently working on **Nestjs, MongoDB, Postgres, Prisma**
-
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 💬 Ask me about ** Express.js, nodejs, mongoDB**                               
-
-- 📫 Feel free to reach me out **victormartinezbusiness30@gmail.com**
-
 
 <!--Intro end-->
+
+### 🛠 Currently working with  
+**NestJS, MongoDB, PostgreSQL, Prisma**
+
+### 📚 Learning & Expanding Skills  
+- 🏗 Building **Scalable and Performant Applications**  
+- ☁️ Exploring **AWS & Cloud Computing**  
+- 🔥 Passionate about **backend development & microservices**  
+
+### 💬 Ask me about  
+**Express.js, Node.js, MongoDB**  
+
+### 📩 Contact me  
+✉️ victormartinezbussiness30@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/tuusuario/)  
+
+
 
 
 
