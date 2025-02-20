@@ -14,12 +14,13 @@
 - 🔥 Passionate about **backend development & microservices**  
 
 ### 💬 Ask me about  
-**Express.js, Node.js, MongoDB**  
+- 🤔   Exploring new technologies and developing software solutions.
+- 📖   Learning more about Software Development and Systems Design.
+- 🎓   I like to exercise and achieve achievements in video games.
+- ⌛️ 🏋️‍♂️ &  📚 🎮 🖥️
 
 ### 📩 Contact me  
 ✉️ victormartinezbussiness30@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/tuusuario/)  
-
 
 ### 🛠 Tech Stack 👨🏻‍💻
 <!--h1 without bottom border-->
