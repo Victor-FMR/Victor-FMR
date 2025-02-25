@@ -4,10 +4,6 @@
 <img align="right" alt="GIF" height="350px" src="https://miro.medium.com/v2/resize:fit:640/1*MwSdCm7vhPZbs2EZ71lY7w.gif" />
 
 <!--Intro end-->
-
-### 🛠 Currently working with  
-**NestJS, MongoDB, PostgreSQL, Prisma**
-
 ### 📚 Learning & Expanding Skills  
 - 🏗 Building **Scalable and Performant Applications**  
 - ☁️ Exploring **AWS & Cloud Computing**  
@@ -20,8 +16,7 @@
 - ⌛️ 🏋️‍♂️ &  📚 🎮 🖥️
 
 ### 📩 Contact me  
-✉️ victormartinezbussiness30@gmail.com  
-
+✉️ victormartinezbusiness30@gmail.com  
 ### 🛠 Tech Stack 👨🏻‍💻
 <!--h1 without bottom border-->
 
